@@ -1,0 +1,11 @@
+{
+  "name": "api-pranavpandey",
+  "description": "API for services offered by Pranav Pandey",
+  "author": "Pranav Pandey",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "engine": "node >= 0.4.1"
+}
