@@ -81,7 +81,7 @@ app.use(function(err, req, res, next) {
 
 // Listen at 8080 port
 var server = app.listen(8080, function () {
-  var host = server.address().address
+  var host = 'localhost' // server.address().address
   var port = server.address().port
   console.log("API listening at http://%s:%s", host, port)
 });
