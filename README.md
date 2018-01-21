@@ -66,7 +66,7 @@ server is required.
 
 ### Connect to the Server
 
-After stating the server, you need to connect with the server by using SSH or
+After starting the server, you need to connect with the server by using SSH or
 [PuTTY](http://www.putty.org/) so that you can install required packages and
 can run essential commands.
 
@@ -422,7 +422,7 @@ You can fully secure the connection to your app with HTTPS using
 
 ## License
 
-    Copyright (c) 2017 Pranav Pandey
+    Copyright (C) 2017 Pranav Pandey
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
