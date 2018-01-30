@@ -422,7 +422,7 @@ You can fully secure the connection to your app with HTTPS using
 
 ## License
 
-    Copyright (C) 2017 Pranav Pandey
+    Copyright 2017 Pranav Pandey
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation
