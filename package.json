@@ -1,17 +1,17 @@
 {
-  "name": "api-pranavpandey",
+  "name": "api-pranav-pandey",
   "description": "API for services offered by Pranav Pandey",
   "author": "Pranav Pandey",
   "license": "MIT",
   "engines": {
-    "node": "8.9.1"
+    "node": "10.16.0"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.1",
     "fs": "0.0.1-security"
   },
   "devDependencies": {},
