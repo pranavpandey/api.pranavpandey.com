@@ -1,7 +1,12 @@
 {
-    "home": {
-        "title": "Welcome!",
-        "description": "My name is Pranav Pandey. I am a professional software developer and a little bit designer from India working on many technologies, especially from Google.",
-        "quote": "Don't be afraid of failures, it makes you more confident !!!"
-    }
+  "home": {
+    "title": "Welcome!",
+    "description": "My name is Pranav Pandey. I am a professional software developer and a little bit designer from India working on many technologies, especially from Google.",
+    "quote": "Don't be afraid of failures, it makes you more confident !!!"
+  },
+  "theme": {
+    "title": "Theme",
+    "description": "You are here because either you don't have any supported apps installed or you are trying to open it from the web browser.",
+    "quote": "Please install any of the below apps according to the supported platform and try again!"
+  }
 }
